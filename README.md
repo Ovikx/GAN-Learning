@@ -1,3 +1,5 @@
+This repository is where I'm putting the things I'm doing to learn GANs. Hopefully other people can benefit from the resource compilation and my code comments.
+
 ## Resources I used:
 - [MIT 6.S191: Deep Generative Modeling](https://www.youtube.com/watch?v=BUNl0To1IVw) by Ava Soleimany
 - [Variational Autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8) by Arxiv Insights
